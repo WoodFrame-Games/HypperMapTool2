@@ -1,11 +1,11 @@
 # HypperMapTool2
 
-HypperMapTool2 — это приложение для создания карт для мобильной игры **HypperSandbox**.
+HypperMapTool2 is an application for creating maps for the mobile game **HypperSandbox**.
 
-## Контакты
+## Contacts
 
-- **Официальный сайт:** https://sites.google.com/view/hyppermaptool
-- **Связь со мной:** https://sites.google.com/view/hyppermaptool/contact
+- **Official site:** https://sites.google.com/view/hyppermaptool
+- **Contact me:** https://sites.google.com/view/hyppermaptool/contact
 - **Discord:** egor_qwerty3
 - **Telegram:** @EgorRoge2
 - **E-mail:** WoodFrame.Games@gmail.com
